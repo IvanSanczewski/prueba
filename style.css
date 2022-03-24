@@ -21,3 +21,17 @@ body {
 h1 {
     text-align: center;
 }
+
+p {
+    display: inline;
+    text-align: center;
+    
+    
+    color: black;
+    background-color: rgb(99, 190, 193);
+    
+    padding: .5em;
+    border-radius: .5em;
+
+
+}
