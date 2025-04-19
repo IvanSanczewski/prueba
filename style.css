@@ -35,3 +35,8 @@ p {
 
 
 }
+
+.mode {
+    padding: 0 1em 1em 0;
+    text-align: end;
+}
