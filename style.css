@@ -25,13 +25,15 @@ p {
     display: inline;
     text-align: center;
     
-    
     color: black;
     background-color: rgb(99, 190, 193);
     
     margin: 1em;
     padding: .5em;
     border-radius: .5em;
+}
 
-
+.btn-container {
+    display: flex;
+    justify-content: space-evenly;
 }
